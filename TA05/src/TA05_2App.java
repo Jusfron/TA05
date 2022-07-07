@@ -1,5 +1,5 @@
 
-public class TA05_2 {
+public class TA05_2App {
 
 	public static void main(String[] args) {
 		String nombre = "David";
